@@ -11,6 +11,10 @@
 - Current operational status
 - Video tour links (when available)
 
+## Data Source
+
+The IMAX venue data is sourced from [KD Cloudy's IMAX & PLFs Database](https://docs.google.com/spreadsheets/d/1UAMhBksBShzZikukFf7O8onHhgNtb-DcZ6KmlficaqY/edit?gid=0#gid=0), a comprehensive collection of IMAX theater specifications and details.
+
 ## Project Structure
 
 ```

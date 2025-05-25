@@ -9,7 +9,6 @@ export const imaxVenues = [
         "Seats": "342",
         "Year": "2024",
         "Status": "Open",
-        "Audio": "12 CH",
         "Video": "https://www.youtube.com/watch?v=Dj18XAVioa0"
     },
     {
@@ -22,21 +21,7 @@ export const imaxVenues = [
         "Seats": "316",
         "Year": "2023",
         "Status": "Open",
-        "Audio": "12 CH",
         "Video": "https://www.youtube.com/watch?v=Dj18XAVioa0"
-    },
-    {
-        "Location": "PVR Vegas Mall",
-        "City": "Delhi",
-        "Projection": "IMAX Dual Xenon 3D",
-        "Aspect Ratio": "1.90:1 Ratio",
-        "Width": "68",
-        "Height": "38",
-        "Seats": "354",
-        "Year": "2019",
-        "Status": "Open",
-        "Audio": "12 CH",
-        "Video": ""
     },
     {
         "Location": "PVR Phoenix Lower Parel",
@@ -48,7 +33,6 @@ export const imaxVenues = [
         "Seats": "402",
         "Year": "2013",
         "Status": "Open",
-        "Audio": "12 CH",
         "Video": "https://www.youtube.com/watch?v=Dj18XAVioa0"
     },
     {
@@ -65,32 +49,6 @@ export const imaxVenues = [
         "Video": "https://www.youtube.com/watch?v=Dj18XAVioa0"
     },
     {
-        "Location": "Cinepolis Nexus Seawoods",
-        "City": "Navi Mumbai",
-        "Projection": "IMAX Dual Xenon 3D",
-        "Aspect Ratio": "1.90:1 Ratio",
-        "Width": "57",
-        "Height": "31",
-        "Seats": "227",
-        "Year": "2018",
-        "Status": "Open",
-        "Audio": "5.1 CH",
-        "Video": "https://www.youtube.com/watch?v=Dj18XAVioa0"
-    },
-    {
-        "Location": "INOX EROS Cinema",
-        "City": "Mumbai",
-        "Projection": "IMAX XT Laser 3D",
-        "Aspect Ratio": "1.90:1 Ratio",
-        "Width": "56",
-        "Height": "28",
-        "Seats": "305",
-        "Year": "2024",
-        "Status": "Open",
-        "Audio": "5.1 CH",
-        "Video": ""
-    },
-    {
         "Location": "INOX R-City Mall",
         "City": "Mumbai",
         "Projection": "IMAX Dual Xenon 3D",
@@ -100,21 +58,7 @@ export const imaxVenues = [
         "Seats": "346",
         "Year": "2018",
         "Status": "Closed",
-        "Audio": "5.1 CH",
         "Video": "https://www.youtube.com/watch?v=YdqfwvT4fRs"
-    },
-    {
-        "Location": "INOX JioWorld Plaza BKC",
-        "City": "Mumbai",
-        "Projection": "IMAX XT Laser 3D",
-        "Aspect Ratio": "1.90:1 Ratio",
-        "Width": "55",
-        "Height": "28",
-        "Seats": "249",
-        "Year": "2023",
-        "Status": "Under Construction",
-        "Audio": "5.1 CH",
-        "Video": ""
     },
     {
         "Location": "PVR Select Citywalk",
@@ -126,22 +70,9 @@ export const imaxVenues = [
         "Seats": "299",
         "Year": "2018",
         "Status": "Approvals Pending",
-        "Audio": "5.1 CH",
         "Video": "https://www.youtube.com/watch?v=YdqfwvT4fRs"
     },
-    {
-        "Location": "INOX Paras Nehru Place",
-        "City": "Delhi",
-        "Projection": "IMAX XT Laser 3D",
-        "Aspect Ratio": "1.90:1 Ratio",
-        "Width": "52",
-        "Height": "28",
-        "Seats": "305",
-        "Year": "2023",
-        "Status": "Open",
-        "Audio": "7.1 CH",
-        "Video": ""
-    },
+
     {
         "Location": "INOX Vishal Rajouri Garden",
         "City": "Delhi",
@@ -152,7 +83,6 @@ export const imaxVenues = [
         "Seats": "254",
         "Year": "2023",
         "Status": "Open",
-        "Audio": "7.1 CH",
         "Video": ""
     }
 ];

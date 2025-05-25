@@ -64,7 +64,7 @@ function App() {
 
       <footer className="bg-zinc-900 text-gray-400 py-6">
         <div className="container mx-auto px-4 lg:px-8 xl:px-16 text-center space-y-2">
-          <p>© 2025 IMAX-Venues</p>
+          <p>© 2025 IMAX-Theatres</p>
           <p className="text-sm">
             This is an unofficial fan website. Not affiliated with, endorsed, sponsored, or specifically approved by IMAX Corporation.
           </p>
